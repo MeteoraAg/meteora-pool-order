@@ -13,6 +13,6 @@ The `pool-order.json` file in this repository follows a specific structure to de
 ]
 ```
 
-You can customize the `pool-order.json`` file by adding or reordering pool addresses to suit your preferred sorting order on Meteora.
+You can customize the `pool-order.json` file by adding or reordering pool addresses to suit your preferred sorting order on Meteora.
 
 Feel free to make contributions to this repository to keep the pool sorting order up to date.
